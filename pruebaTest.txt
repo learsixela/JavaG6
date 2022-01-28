@@ -1,4 +1,6 @@
-Hola mundo desde git
+Hola mundo desde git rama master mergiadas
+algo
+
 ---
 git config --global user.name "SU NOMBRE"
 git config --global user.email "su_email@gmail.com"
